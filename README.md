@@ -1,16 +1,14 @@
 <h1 align="left">Frontend Developer from Russia, Volgograd</h1>
 
 🧊 Telegram: https://t.me/owihh
-
 </br>
-
 🧊 Website: https://web-owih.vercel.app/
-
 </br>
 </br>
-
 🔷 HTML
 **`BEM template`** **`BEM methodology`** **`SEO tags`**
+</br>
+</br>
 🔷 CSS
 **`SASS/SCSS`** **`Responsive design`** **`Mobile first develop`** **`Tailwind`**
 🔷 Frontend
