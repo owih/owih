@@ -3,7 +3,6 @@
 </br>
 🧊 Website: https://web-owih.vercel.app/
 </br>
-</br>
 🔷 HTML
 **`BEM template`** **`BEM methodology`** **`SEO tags`**
 </br>
