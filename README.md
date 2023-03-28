@@ -12,8 +12,8 @@
 **`SASS/SCSS`** **`Responsive design`** **`Mobile first develop`** **`Tailwind`**
 </br>
 </br>
-🔷 JavaScript
-**`Vue 3`** **`React (basic)`** **`Redux/Toolkit (basic)`** **`Vue-router`** **`Option/Composition API`** **`Vuex/Pinia store`** **`TypeScript (basic)`** **`Nuxt 3 (basic)`** **`ECMAScript 6+
+🔷 Frontend
+**`Vue 3`** **`React (basic)`** **`Redux/Toolkit (basic)`** **`Vue-router`** **`Option/Composition API`** **`Vuex/Pinia store`** **`TypeScript (basic)`** **`TypeScript (basic)`** **`Nuxt 3 (basic)`** **`ECMAScript 6+
 `** **`Data from API`** **`Bootstrap`** **`Vuetify`**
 </br>
 </br>
