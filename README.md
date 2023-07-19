@@ -28,7 +28,7 @@ Backend repo - https://github.com/owih/fullstack-shop-backend
 </br>
 🔷 Frontend
 </br>
-**`Vue 2/3`** **`React (basic)`** **`Redux/Toolkit (basic)`** **`Vue-router`** **`Option/Composition API`** **`Vuex/Pinia store`** **`TypeScript (basic)`** **`TypeScript (basic)`** **`Nuxt 2/3 (basic)`** **`ECMAScript 6+
+**`Vue 2/3`** **`React (basic)`** **`Redux/Toolkit (basic)`** **`Vue-router`** **`Option/Composition API`** **`Vuex/Pinia store`** **`TypeScript (basic)`** **`Nuxt 2/3 (basic)`** **`ECMAScript 6+
 `** **`Data from API`** **`Bootstrap`** **`Vuetify`**
 </br>
 </br>
