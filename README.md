@@ -2,7 +2,18 @@
 
 🧊 Telegram: https://t.me/owihh
 </br>
-🧊 Website: https://web-owih.vercel.app/
+🔥 Website: https://web-owih.vercel.app/
+</br>
+</br>
+🔍 Code example:
+</br>
+🔰 Fullstack shop
+</br>
+Website - https://fullstack-shop-frontend.vercel.app/
+</br>
+Frontend repo - https://github.com/owih/fullstack-shop-frontend
+</br>
+Backend repo - https://github.com/owih/fullstack-shop-backend
 </br>
 </br>
 🔷 HTML
