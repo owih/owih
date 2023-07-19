@@ -34,7 +34,7 @@ Backend repo - https://github.com/owih/fullstack-shop-backend
 </br>
 🔷 Backend
 </br>
-**`HTTP`** **`Rest API`** **`Prisma`** **`PostgreSQL (basic)`** **`Express (basic)`** **`Nest (basic)`** **`Postman`**
+**`HTTP`** **`Rest API`** **`Prisma`** **`PostgreSQL (basic)`** **`Express (basic)`** **`Nest (basic)`** **`Postman`** **`Supabase`**
 </br>
 </br>
 🔷 Tools
