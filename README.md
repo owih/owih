@@ -1,43 +1,41 @@
 <h1 align="left">Frontend Developer from Russia, Volgograd</h1>
 
-🧊 Telegram: https://t.me/owihh
+<a href="https://t.me/owihh" target="_blank">Telegram</a>
 </br>
-🔥 Website: https://web-owih.vercel.app/
-</br>
-</br>
-🔍 Code example:
-</br>
-🔰 Fullstack shop
-</br>
-Website - https://fullstack-shop-frontend.vercel.app/
-</br>
-Frontend repo - https://github.com/owih/fullstack-shop-frontend
-</br>
-Backend repo - https://github.com/owih/fullstack-shop-backend
+<a href="https://web-owih.vercel.app/" target="_blank">Website</a>
 </br>
 </br>
-🔷 HTML
+Code example - Fullstack shop template:
+</br>
+<a href="https://fullstack-shop-frontend.vercel.app/" target="_blank">Website</a>
+</br>
+<a href="https://github.com/owih/fullstack-shop-frontend" target="_blank">Frontend repo</a>
+</br>
+<a href="https://github.com/owih/fullstack-shop-backend" target="_blank">Backend repo</a>
+</br>
+</br>
+HTML
 </br>
 **`BEM template`** **`BEM methodology`** **`SEO tags`**
 </br>
 </br>
-🔷 CSS
+CSS
 </br>
 **`SASS/SCSS`** **`Responsive design`** **`Mobile first develop`** **`Tailwind`**
 </br>
 </br>
-🔷 Frontend
+Frontend
 </br>
 **`Vue 2/3`** **`React (basic)`** **`Redux/Toolkit (basic)`** **`Vue-router`** **`Option/Composition API`** **`Vuex/Pinia store`** **`TypeScript (basic)`** **`Nuxt 2/3 (basic)`** **`ECMAScript 6+
 `** **`Data from API`** **`Bootstrap`** **`Vuetify`**
 </br>
 </br>
-🔷 Backend
+Backend
 </br>
 **`HTTP`** **`Rest API`** **`Prisma`** **`PostgreSQL (basic)`** **`Express (basic)`** **`Nest (basic)`** **`Postman`** **`Supabase`**
 </br>
 </br>
-🔷 Tools
+Tools
 </br>
-**`Eslint`** **`Prettier`** **`Browserstack`** **`Webpack`** **`Chrome DevTools`** **`Figma`** **`Git/Gitflow/Github`** **`NPM`** **`English B1`**
+**`Eslint`** **`Prettier`** **`Browserstack`** **`Webpack`** **`Chrome DevTools`** **`Figma`** **`Git/Gitflow/Github`** **`NPM`** **`English B1`** **`Windows/Mac Os`**
 </br>
