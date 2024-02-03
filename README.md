@@ -2,7 +2,7 @@
 
 <a href="https://t.me/owihh" target="_blank">Telegram</a>
 </br>
-<a href="https://web-owih.vercel.app/" target="_blank">Website</a>
+<a href="https://golovatenko.vercel.app/" target="_blank">Website</a>
 </br>
 <a href="https://golovatenko-resume.vercel.app/" target="_blank">Resume</a>
 </br>
