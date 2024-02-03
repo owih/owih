@@ -4,6 +4,8 @@
 </br>
 <a href="https://web-owih.vercel.app/" target="_blank">Website</a>
 </br>
+<a href="https://golovatenko-resume.vercel.app/" target="_blank">Resume</a>
+</br>
 </br>
 Code example - Fullstack shop template:
 </br>
